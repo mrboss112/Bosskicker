@@ -15,7 +15,7 @@ BotName: LINE Alphat JS\n\
 Version: FORKED VERSION\n\
 Thanks to @Alfathdirk @TCR_TEAM\n\
 =========================================\n\
-\nNOTE : This bot is made by @Alfathdirk @TCR_TEAM and has been forked by @GoogleX !\n\
+\nNOTE : This bot is made by @shahzain786 and has been forked by @tcr !\n\
 ***Copyright belongs to the author***");
 
 /*
