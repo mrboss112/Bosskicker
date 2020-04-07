@@ -9,7 +9,7 @@ const config = require('./config');
 const { Message, OpType, Location } = require('../curve-thrift/line_types');
 //let exec = require('child_process').exec;
 
-const myBot = ['u7b09ffddc1da165edd580dcce52b9c28'];
+const myBot = ['u29bd1fefb4f582a518ce8a6f92ddb79f'];
 const banList = [];//Banned list
 var groupList = new Array();//Group list
 var vx = {};var midnornama,pesane,kickhim;var waitMsg = "no";//DO NOT CHANGE THIS
@@ -84,7 +84,7 @@ class LINE extends LineAPI {
 => !kepo\n\
 => !key\n\
 => !kickban *ADMIN*\n\
-=> .musibat *kickall*\n\
+=> .boss *kickall*\n\
 => !kickme\n\
 => !msg\n\
 => !mute *ADMIN*\n\
